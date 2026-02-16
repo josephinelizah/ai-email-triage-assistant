@@ -1,0 +1,26 @@
+[
+  {
+    "subject": "Urgent: Client meeting tomorrow",
+    "thread": [
+      "Hi team, the client moved the meeting to tomorrow at 10 AM.",
+      "Please prepare the updated presentation slides.",
+      "Let me know if anyone has conflicts."
+    ]
+  },
+  {
+    "subject": "Newsletter Subscription",
+    "thread": [
+      "Welcome to our weekly newsletter!",
+      "Click here to explore more products.",
+      "Unsubscribe anytime."
+    ]
+  },
+  {
+    "subject": "Weekend Plans",
+    "thread": [
+      "Hey, are we still on for the weekend trip?",
+      "Let me know your availability.",
+      "We need to book tickets soon."
+    ]
+  }
+]
